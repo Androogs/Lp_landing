@@ -1,5 +1,5 @@
 # ---------- compilación ----------
-FROM node:22-alpine AS build
+FROM node:25-alpine AS build
 WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci --ignore-scripts=false
@@ -8,7 +8,7 @@ COPY src ./src
 RUN npm run build && npm prune --omit=dev
 
 # ---------- ejecución (imagen mínima, usuario sin privilegios) ----------
-FROM node:22-alpine
+FROM node:25-alpine
 ENV NODE_ENV=production
 WORKDIR /app
 RUN apk add --no-cache tini && addgroup -S lp && adduser -S lp -G lp
