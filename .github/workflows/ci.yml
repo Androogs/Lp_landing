@@ -1,0 +1,51 @@
+# Integración continua: pruebas de seguridad, tipos, compilación, dependencias vulnerables y secretos filtrados
+name: CI
+on: [push, pull_request]
+permissions: { contents: read }
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env: { POSTGRES_PASSWORD: ci }
+        ports: ["5432:5432"]
+        options: --health-cmd pg_isready --health-interval 5s --health-retries 10
+    defaults: { run: { working-directory: backend } }
+    env:
+      TEST_DB_OWNER_URL: postgres://postgres:ci@localhost:5432/lp_test
+      TEST_DB_APP_URL: postgres://lp_app:app@localhost:5432/lp_test
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: backend/package-lock.json }
+      - name: Preparar base de pruebas
+        run: |
+          PGPASSWORD=ci psql -h localhost -U postgres -c "CREATE DATABASE lp_test"
+          PGPASSWORD=ci psql -h localhost -U postgres -c "CREATE ROLE lp_app LOGIN PASSWORD 'app'"
+          PGPASSWORD=ci psql -h localhost -U postgres -c "GRANT CONNECT ON DATABASE lp_test TO lp_app"
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+      - run: npm audit --audit-level=high
+
+  frontend:
+    runs-on: ubuntu-latest
+    defaults: { run: { working-directory: frontend } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: frontend/package-lock.json }
+      - run: npm ci
+      - run: npm run build
+      - run: npm audit --audit-level=high
+
+  secretos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: gitleaks/gitleaks-action@v2
+        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }

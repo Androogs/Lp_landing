@@ -1,0 +1,48 @@
+{
+  "name": "licores-palmira-api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc -p tsconfig.build.json && node -e \"const fs=require('fs');fs.cpSync('src/db/migrations','dist/db/migrations',{recursive:true});fs.cpSync('src/db/seed','dist/db/seed',{recursive:true})\"",
+    "start": "node dist/server.js",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "db:migrate": "tsx src/scripts/migrate.ts",
+    "db:seed": "tsx src/scripts/seed-catalog.ts",
+    "user:create": "tsx src/scripts/create-user.ts",
+    "secrets:generate": "tsx src/scripts/generate-secrets.ts",
+    "retention": "tsx src/scripts/retention.ts",
+    "keys:rotate": "tsx src/scripts/rotate-keys.ts",
+    "catalog:export": "tsx tools/export-catalog.ts",
+    "db:migrate:prod": "node dist/scripts/migrate.js",
+    "db:seed:prod": "node dist/scripts/seed-catalog.js"
+  },
+  "dependencies": {
+    "@node-rs/argon2": "^2.0.2",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "pg": "^8.13.1",
+    "pino": "^9.5.0",
+    "pino-http": "^10.3.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.8",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.10.2",
+    "@types/pg": "^8.11.10",
+    "@types/supertest": "^6.0.2",
+    "supertest": "^7.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "~5.6.3",
+    "vitest": "^4.1.12",
+    "vite": "7.3.7"
+  }
+}

@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "p01",
+    "nombre": "Old Parr 12 Años",
+    "categoria": "whisky",
+    "presentacion": "1000 ml",
+    "detal": 177500,
+    "mayor": 169800,
+    "stock": "disponible"
+  },
+  {
+    "id": "p02",
+    "nombre": "Buchanan's 12 Años",
+    "categoria": "whisky",
+    "presentacion": "1000 ml",
+    "detal": 216000,
+    "mayor": 195400,
+    "stock": "disponible"
+  },
+  {
+    "id": "p03",
+    "nombre": "Johnnie Walker Red Label",
+    "categoria": "whisky",
+    "presentacion": "1000 ml",
+    "detal": 89900,
+    "mayor": 85900,
+    "stock": "disponible"
+  },
+  {
+    "id": "p04",
+    "nombre": "Johnnie Walker Double Black",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 200000,
+    "mayor": 175200,
+    "stock": "disponible"
+  },
+  {
+    "id": "p05",
+    "nombre": "Chivas Regal 12 Años",
+    "categoria": "whisky",
+    "presentacion": "1000 ml",
+    "detal": 190500,
+    "mayor": 182500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p06",
+    "nombre": "Jack Daniel's Old No. 7",
+    "categoria": "whisky",
+    "presentacion": "750 ml",
+    "detal": 118000,
+    "mayor": 110700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p07",
+    "nombre": "Jack Daniel's Honey",
+    "categoria": "whisky",
+    "presentacion": "750 ml",
+    "detal": 118000,
+    "mayor": 110700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p08",
+    "nombre": "Grant's Triple Wood",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 62500,
+    "mayor": 56700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p09",
+    "nombre": "Something Special",
+    "categoria": "whisky",
+    "presentacion": "750 ml",
+    "detal": 74500,
+    "mayor": 71400,
+    "stock": "disponible"
+  },
+  {
+    "id": "p10",
+    "nombre": "The Glenlivet 12 Años",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 210000,
+    "mayor": 195000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p11",
+    "nombre": "Monkey Shoulder",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 148000,
+    "mayor": 133700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p12",
+    "nombre": "Jameson Irish Whiskey",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 132000,
+    "mayor": 126500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p13",
+    "nombre": "Black & White",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 58600,
+    "mayor": 53000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p14",
+    "nombre": "Ballantine's Finest",
+    "categoria": "whisky",
+    "presentacion": "1000 ml",
+    "detal": 92000,
+    "mayor": 88100,
+    "stock": "disponible"
+  },
+  {
+    "id": "p15",
+    "nombre": "Macallan Double Cask 12 Años",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 360000,
+    "mayor": 345000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p16",
+    "nombre": "Passport Scotch",
+    "categoria": "whisky",
+    "presentacion": "700 ml",
+    "detal": 60000,
+    "mayor": 57200,
+    "stock": "disponible"
+  },
+  {
+    "id": "p17",
+    "nombre": "Ron Viejo de Caldas 3 Años",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 49900,
+    "mayor": 50200,
+    "stock": "disponible"
+  },
+  {
+    "id": "p18",
+    "nombre": "Ron Viejo de Caldas 8 Años",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 95600,
+    "mayor": 89500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p19",
+    "nombre": "Ron Medellín Añejo 5 Años",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 63500,
+    "mayor": 58000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p20",
+    "nombre": "Ron Bacardí Carta Blanca",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 58800,
+    "mayor": 53200,
+    "stock": "disponible"
+  },
+  {
+    "id": "p21",
+    "nombre": "Ron Havana Club 7 Años",
+    "categoria": "ron",
+    "presentacion": "700 ml",
+    "detal": 110700,
+    "mayor": 106000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p22",
+    "nombre": "Ron Zacapa 12 Años Ámbar",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 174000,
+    "mayor": 164200,
+    "stock": "disponible"
+  },
+  {
+    "id": "p23",
+    "nombre": "Ron Flor de Caña 12 Años",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 129000,
+    "mayor": 122000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p24",
+    "nombre": "Ron Esencial",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 43400,
+    "mayor": 40700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p25",
+    "nombre": "Ron Parce 8 Años",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 174000,
+    "mayor": 164000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p26",
+    "nombre": "Ron Marqués del Valle 8 Años",
+    "categoria": "ron",
+    "presentacion": "750 ml",
+    "detal": 96650,
+    "mayor": 95000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p27",
+    "nombre": "Aguardiente Antioqueño Tapa Azul",
+    "categoria": "aguardiente",
+    "presentacion": "750 ml",
+    "detal": 54000,
+    "mayor": 49500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p28",
+    "nombre": "Aguardiente Antioqueño Tapa Roja",
+    "categoria": "aguardiente",
+    "presentacion": "750 ml",
+    "detal": 51500,
+    "mayor": 47100,
+    "stock": "disponible"
+  },
+  {
+    "id": "p29",
+    "nombre": "Aguardiente Antioqueño Tapa Verde",
+    "categoria": "aguardiente",
+    "presentacion": "750 ml",
+    "detal": 51200,
+    "mayor": 46800,
+    "stock": "disponible"
+  },
+  {
+    "id": "p30",
+    "nombre": "Aguardiente Blanco del Valle Sin Azúcar",
+    "categoria": "aguardiente",
+    "presentacion": "750 ml",
+    "detal": 49000,
+    "mayor": 44600,
+    "stock": "disponible"
+  },
+  {
+    "id": "p31",
+    "nombre": "Aguardiente Amarillo de Manzanares",
+    "categoria": "aguardiente",
+    "presentacion": "750 ml",
+    "detal": 52500,
+    "mayor": 48000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p32",
+    "nombre": "Aguardiente Fiesta",
+    "categoria": "aguardiente",
+    "presentacion": "750 ml",
+    "detal": 49000,
+    "mayor": 44600,
+    "stock": "disponible"
+  },
+  {
+    "id": "p33",
+    "nombre": "Garrafa Antioqueño Tapa Verde",
+    "categoria": "aguardiente",
+    "presentacion": "1750 ml",
+    "detal": 104000,
+    "mayor": 98900,
+    "stock": "disponible"
+  },
+  {
+    "id": "p34",
+    "nombre": "Antioqueño Real Premium",
+    "categoria": "aguardiente",
+    "presentacion": "750 ml",
+    "detal": 84700,
+    "mayor": 77400,
+    "stock": "disponible"
+  },
+  {
+    "id": "p35",
+    "nombre": "Tequila José Cuervo Reposado",
+    "categoria": "tequila",
+    "presentacion": "750 ml",
+    "detal": 83000,
+    "mayor": 81000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p36",
+    "nombre": "Tequila Don Julio 70 Cristalino",
+    "categoria": "tequila",
+    "presentacion": "700 ml",
+    "detal": 377000,
+    "mayor": 360500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p37",
+    "nombre": "Tequila Don Julio Reposado",
+    "categoria": "tequila",
+    "presentacion": "700 ml",
+    "detal": 291900,
+    "mayor": 263900,
+    "stock": "disponible"
+  },
+  {
+    "id": "p38",
+    "nombre": "Tequila Patrón Silver",
+    "categoria": "tequila",
+    "presentacion": "700 ml",
+    "detal": 215000,
+    "mayor": 198000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p39",
+    "nombre": "Tequila Jimador Reposado",
+    "categoria": "tequila",
+    "presentacion": "700 ml",
+    "detal": 105000,
+    "mayor": 96700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p40",
+    "nombre": "Tequila Olmeca Blanco",
+    "categoria": "tequila",
+    "presentacion": "700 ml",
+    "detal": 85900,
+    "mayor": 82300,
+    "stock": "disponible"
+  },
+  {
+    "id": "p41",
+    "nombre": "Tequila 1800 Reposado",
+    "categoria": "tequila",
+    "presentacion": "750 ml",
+    "detal": 236600,
+    "mayor": 226500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p42",
+    "nombre": "Tequila Herradura Plata",
+    "categoria": "tequila",
+    "presentacion": "750 ml",
+    "detal": 193400,
+    "mayor": 174900,
+    "stock": "disponible"
+  },
+  {
+    "id": "p43",
+    "nombre": "Vodka Absolut",
+    "categoria": "vodka",
+    "presentacion": "1000 ml",
+    "detal": 117000,
+    "mayor": 112000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p44",
+    "nombre": "Vodka Smirnoff Lulo",
+    "categoria": "vodka",
+    "presentacion": "750 ml",
+    "detal": 48000,
+    "mayor": 43400,
+    "stock": "disponible"
+  },
+  {
+    "id": "p45",
+    "nombre": "Vodka Grey Goose",
+    "categoria": "vodka",
+    "presentacion": "700 ml",
+    "detal": 200000,
+    "mayor": 195000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p46",
+    "nombre": "Vodka Smirnoff Red",
+    "categoria": "vodka",
+    "presentacion": "700 ml",
+    "detal": 93300,
+    "mayor": 84400,
+    "stock": "disponible"
+  },
+  {
+    "id": "p47",
+    "nombre": "Vodka Belvedere",
+    "categoria": "vodka",
+    "presentacion": "750 ml",
+    "detal": 236000,
+    "mayor": 225000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p48",
+    "nombre": "Vodka Absolut Citron",
+    "categoria": "vodka",
+    "presentacion": "700 ml",
+    "detal": 99000,
+    "mayor": 94800,
+    "stock": "disponible"
+  },
+  {
+    "id": "p49",
+    "nombre": "Ginebra Bombay Sapphire",
+    "categoria": "ginebra",
+    "presentacion": "700 ml",
+    "detal": 132900,
+    "mayor": 120200,
+    "stock": "disponible"
+  },
+  {
+    "id": "p50",
+    "nombre": "Ginebra Tanqueray London Dry",
+    "categoria": "ginebra",
+    "presentacion": "700 ml",
+    "detal": 148000,
+    "mayor": 141800,
+    "stock": "disponible"
+  },
+  {
+    "id": "p51",
+    "nombre": "Ginebra Gordon's London Dry",
+    "categoria": "ginebra",
+    "presentacion": "700 ml",
+    "detal": 78400,
+    "mayor": 70900,
+    "stock": "disponible"
+  },
+  {
+    "id": "p52",
+    "nombre": "Ginebra Hendrick's",
+    "categoria": "ginebra",
+    "presentacion": "750 ml",
+    "detal": 218000,
+    "mayor": 210600,
+    "stock": "disponible"
+  },
+  {
+    "id": "p53",
+    "nombre": "Ginebra Beefeater",
+    "categoria": "ginebra",
+    "presentacion": "700 ml",
+    "detal": 155500,
+    "mayor": 148700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p54",
+    "nombre": "Casillero del Diablo Malbec",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 58900,
+    "mayor": 58000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p55",
+    "nombre": "Gato Negro Carmenere",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 44000,
+    "mayor": 42600,
+    "stock": "disponible"
+  },
+  {
+    "id": "p56",
+    "nombre": "Frontera Cabernet Sauvignon",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 36500,
+    "mayor": 34500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p57",
+    "nombre": "Lambrusco Piccini Rosso Dolce",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 46000,
+    "mayor": 43000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p58",
+    "nombre": "Marqués de Riscal Tinto",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 68000,
+    "mayor": 63000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p59",
+    "nombre": "Gato Negro Rosé",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 44000,
+    "mayor": 42600,
+    "stock": "disponible"
+  },
+  {
+    "id": "p60",
+    "nombre": "Freixenet Carta Nevada",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 79000,
+    "mayor": 74000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p61",
+    "nombre": "Moët & Chandon Brut Impérial",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 485000,
+    "mayor": 475000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p62",
+    "nombre": "Chandon Extra Brut",
+    "categoria": "vinos",
+    "presentacion": "750 ml",
+    "detal": 85000,
+    "mayor": 82000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p63",
+    "nombre": "Cerveza Águila Original",
+    "categoria": "cervezas",
+    "presentacion": "Lata 330 ml",
+    "detal": 3500,
+    "mayor": 3000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p64",
+    "nombre": "Cerveza Poker",
+    "categoria": "cervezas",
+    "presentacion": "Lata 330 ml",
+    "detal": 3500,
+    "mayor": 3000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p65",
+    "nombre": "Cerveza Club Colombia Dorada",
+    "categoria": "cervezas",
+    "presentacion": "Lata 330 ml",
+    "detal": 3500,
+    "mayor": 3104,
+    "stock": "disponible"
+  },
+  {
+    "id": "p66",
+    "nombre": "Cerveza Corona Extra",
+    "categoria": "cervezas",
+    "presentacion": "Botella 330 ml",
+    "detal": 4500,
+    "mayor": 3771,
+    "stock": "disponible"
+  },
+  {
+    "id": "p67",
+    "nombre": "Cerveza Stella Artois",
+    "categoria": "cervezas",
+    "presentacion": "Botella 300 ml",
+    "detal": 5000,
+    "mayor": 3580,
+    "stock": "disponible"
+  },
+  {
+    "id": "p68",
+    "nombre": "Cerveza Águila Light",
+    "categoria": "cervezas",
+    "presentacion": "Lata 330 ml",
+    "detal": 3500,
+    "mayor": 3021,
+    "stock": "disponible"
+  },
+  {
+    "id": "p69",
+    "nombre": "Cerveza Modelo Especial",
+    "categoria": "cervezas",
+    "presentacion": "Botella 355 ml",
+    "detal": 6500,
+    "mayor": 5500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p70",
+    "nombre": "Cerveza Club Colombia Latón",
+    "categoria": "cervezas",
+    "presentacion": "Lata 473 ml",
+    "detal": 4500,
+    "mayor": 4000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p71",
+    "nombre": "Cerveza Michelob Ultra",
+    "categoria": "cervezas",
+    "presentacion": "Lata 269 ml",
+    "detal": 2800,
+    "mayor": 2500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p72",
+    "nombre": "Cerveza Coronita",
+    "categoria": "cervezas",
+    "presentacion": "Botella 210 ml",
+    "detal": 3500,
+    "mayor": 2983,
+    "stock": "disponible"
+  },
+  {
+    "id": "p73",
+    "nombre": "Crema de Whisky Baileys",
+    "categoria": "cremas",
+    "presentacion": "700 ml",
+    "detal": 76900,
+    "mayor": 77000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p74",
+    "nombre": "Crema de Whisky Baileys",
+    "categoria": "cremas",
+    "presentacion": "1000 ml",
+    "detal": 112800,
+    "mayor": 102000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p75",
+    "nombre": "Sabajón Apolo Vainilla",
+    "categoria": "cremas",
+    "presentacion": "700 ml",
+    "detal": 41000,
+    "mayor": 38900,
+    "stock": "disponible"
+  },
+  {
+    "id": "p76",
+    "nombre": "Piña Colada Isleña",
+    "categoria": "cremas",
+    "presentacion": "750 ml",
+    "detal": 35000,
+    "mayor": 32700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p77",
+    "nombre": "Licor de Café De la Corte",
+    "categoria": "cremas",
+    "presentacion": "750 ml",
+    "detal": 39000,
+    "mayor": 36800,
+    "stock": "disponible"
+  },
+  {
+    "id": "p78",
+    "nombre": "Brandy Domecq",
+    "categoria": "brandy",
+    "presentacion": "750 ml",
+    "detal": 67500,
+    "mayor": 61500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p79",
+    "nombre": "Hennessy V.S",
+    "categoria": "brandy",
+    "presentacion": "700 ml",
+    "detal": 295000,
+    "mayor": 280000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p80",
+    "nombre": "Rémy Martin V.S.O.P",
+    "categoria": "brandy",
+    "presentacion": "750 ml",
+    "detal": 375000,
+    "mayor": 353000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p81",
+    "nombre": "Brandy Grajales",
+    "categoria": "brandy",
+    "presentacion": "750 ml",
+    "detal": 55000,
+    "mayor": 52500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p82",
+    "nombre": "Campari Bitter",
+    "categoria": "cocteleria",
+    "presentacion": "750 ml",
+    "detal": 113000,
+    "mayor": 107000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p83",
+    "nombre": "Cointreau",
+    "categoria": "cocteleria",
+    "presentacion": "750 ml",
+    "detal": 148000,
+    "mayor": 142000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p84",
+    "nombre": "Disaronno Amaretto",
+    "categoria": "cocteleria",
+    "presentacion": "750 ml",
+    "detal": 152000,
+    "mayor": 145000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p85",
+    "nombre": "Pisco Quebranta",
+    "categoria": "cocteleria",
+    "presentacion": "700 ml",
+    "detal": 99500,
+    "mayor": 95000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p86",
+    "nombre": "Smirnoff Ice",
+    "categoria": "cocteleria",
+    "presentacion": "275 ml",
+    "detal": 6600,
+    "mayor": 6600,
+    "stock": "disponible"
+  },
+  {
+    "id": "p87",
+    "nombre": "Four Loko Green Apple",
+    "categoria": "cocteleria",
+    "presentacion": "Lata 473 ml",
+    "detal": 16000,
+    "mayor": 14700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p88",
+    "nombre": "Viejo de Caldas Mojito",
+    "categoria": "cocteleria",
+    "presentacion": "295 ml",
+    "detal": 9000,
+    "mayor": 8550,
+    "stock": "disponible"
+  },
+  {
+    "id": "p89",
+    "nombre": "Coca-Cola",
+    "categoria": "bebidas",
+    "presentacion": "1.5 L",
+    "detal": 6500,
+    "mayor": 5417,
+    "stock": "disponible"
+  },
+  {
+    "id": "p90",
+    "nombre": "Coca-Cola",
+    "categoria": "bebidas",
+    "presentacion": "400 ml",
+    "detal": 3000,
+    "mayor": 2500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p91",
+    "nombre": "Agua Tónica Schweppes",
+    "categoria": "bebidas",
+    "presentacion": "400 ml",
+    "detal": 2500,
+    "mayor": 2000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p92",
+    "nombre": "Red Bull Energy Drink",
+    "categoria": "bebidas",
+    "presentacion": "Lata 250 ml",
+    "detal": 8000,
+    "mayor": 6700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p93",
+    "nombre": "Monster Energy Zero",
+    "categoria": "bebidas",
+    "presentacion": "Lata 473 ml",
+    "detal": 8500,
+    "mayor": 7700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p94",
+    "nombre": "Agua Cristal",
+    "categoria": "bebidas",
+    "presentacion": "600 ml",
+    "detal": 2000,
+    "mayor": 1400,
+    "stock": "disponible"
+  },
+  {
+    "id": "p95",
+    "nombre": "Gatorade Maracuyá",
+    "categoria": "bebidas",
+    "presentacion": "500 ml",
+    "detal": 3700,
+    "mayor": 3100,
+    "stock": "disponible"
+  },
+  {
+    "id": "p96",
+    "nombre": "Sprite",
+    "categoria": "bebidas",
+    "presentacion": "1.5 L",
+    "detal": 4500,
+    "mayor": 3700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p97",
+    "nombre": "Papas Margarita Natural",
+    "categoria": "snacks",
+    "presentacion": "105 g",
+    "detal": 7000,
+    "mayor": 6000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p98",
+    "nombre": "Maní Jumbo Mediano",
+    "categoria": "snacks",
+    "presentacion": "35 g",
+    "detal": 3700,
+    "mayor": 3400,
+    "stock": "disponible"
+  },
+  {
+    "id": "p99",
+    "nombre": "Detodito Mix",
+    "categoria": "snacks",
+    "presentacion": "165 g",
+    "detal": 8500,
+    "mayor": 7300,
+    "stock": "disponible"
+  },
+  {
+    "id": "p100",
+    "nombre": "Chocolatina Jet No. 3",
+    "categoria": "snacks",
+    "presentacion": "45 g",
+    "detal": 3000,
+    "mayor": 2500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p101",
+    "nombre": "Papas Calima",
+    "categoria": "snacks",
+    "presentacion": "600 g",
+    "detal": 24500,
+    "mayor": 21500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p102",
+    "nombre": "Marlboro Gold",
+    "categoria": "cigarrillos",
+    "presentacion": "x10",
+    "detal": 7000,
+    "mayor": 6700,
+    "stock": "disponible"
+  },
+  {
+    "id": "p103",
+    "nombre": "Terea Blue",
+    "categoria": "cigarrillos",
+    "presentacion": "x10",
+    "detal": 12000,
+    "mayor": 11500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p104",
+    "nombre": "L&M Red",
+    "categoria": "cigarrillos",
+    "presentacion": "x20",
+    "detal": 8100,
+    "mayor": 7805,
+    "stock": "disponible"
+  },
+  {
+    "id": "p105",
+    "nombre": "Vape VEEV 8000 puffs",
+    "categoria": "vapes",
+    "presentacion": "18 ml",
+    "detal": 50000,
+    "mayor": 50000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p106",
+    "nombre": "Vasos desechables 10 oz",
+    "categoria": "desechables",
+    "presentacion": "x 50",
+    "detal": 7500,
+    "mayor": 6500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p107",
+    "nombre": "Vasos shot desechables",
+    "categoria": "desechables",
+    "presentacion": "x 50",
+    "detal": 5000,
+    "mayor": 4500,
+    "stock": "disponible"
+  },
+  {
+    "id": "p108",
+    "nombre": "Hielo en bolsa",
+    "categoria": "desechables",
+    "presentacion": "5 kg",
+    "detal": 9000,
+    "mayor": 8000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p109",
+    "nombre": "Servilletas",
+    "categoria": "desechables",
+    "presentacion": "x 100",
+    "detal": 3500,
+    "mayor": 3000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p110",
+    "nombre": "Ancheta Baileys + taza de café + bolsa de regalo",
+    "categoria": "anchetas",
+    "presentacion": "Kit",
+    "detal": 75000,
+    "mayor": 75000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p111",
+    "nombre": "Ancheta Old Parr 12 + 2 vasos de whisky",
+    "categoria": "anchetas",
+    "presentacion": "Kit",
+    "detal": 195000,
+    "mayor": 190000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p112",
+    "nombre": "Ancheta Antioqueño + 6 shots + limones",
+    "categoria": "anchetas",
+    "presentacion": "Kit",
+    "detal": 75000,
+    "mayor": 70000,
+    "stock": "disponible"
+  },
+  {
+    "id": "p113",
+    "nombre": "Caja regalo Buchanan's 12 + estuche",
+    "categoria": "anchetas",
+    "presentacion": "Kit",
+    "detal": 235000,
+    "mayor": 228000,
+    "stock": "disponible"
+  }
+]
