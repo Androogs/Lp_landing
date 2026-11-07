@@ -30,7 +30,7 @@ const schema = z
     telefono: celularCO.optional(),
     email: z.string().trim().toLowerCase().email().max(120).optional(),
     detalle: texto(10, 1000),
-    autorizacionDatos: z.literal(true, { errorMap: () => ({ message: "debes autorizar el tratamiento de datos para responder tu solicitud" }) })
+    autorizacionDatos: z.literal(true, { error: "debes autorizar el tratamiento de datos para responder tu solicitud" })
   })
   .strict();
 

@@ -1,5 +1,5 @@
 import type { NextFunction, Request, RequestHandler, Response } from "express";
-import { z, type ZodTypeAny } from "zod";
+import { z } from "zod";
 
 /** Error controlado: el mensaje es seguro para mostrarse al usuario */
 export class HttpError extends Error {
@@ -15,7 +15,7 @@ export const asyncH =
   };
 
 /** Valida el cuerpo con un esquema zod estricto (campos desconocidos = rechazo) */
-export function parseBody<S extends ZodTypeAny>(schema: S, body: unknown): z.infer<S> {
+export function parseBody<S extends z.ZodType>(schema: S, body: unknown): z.infer<S> {
   const r = schema.safeParse(body);
   if (!r.success) {
     throw new HttpError(

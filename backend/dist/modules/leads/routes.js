@@ -16,7 +16,7 @@ const schema = z
     nombre: texto(3, 80),
     telefono: celularCO,
     ciudad: texto(2, 60),
-    autorizacionDatos: z.literal(true, { errorMap: () => ({ message: "debes autorizar el tratamiento de datos" }) })
+    autorizacionDatos: z.literal(true, { error: "debes autorizar el tratamiento de datos" })
 })
     .strict();
 leadsRouter.post("/", limiter("solicitud-mayorista", 60, 5), asyncH(async (req, res) => {

@@ -36,8 +36,8 @@ export const orderSchema = z
       })
       .strict(),
     metodo: z.enum(["wompi", "contraentrega"]),
-    autorizacionDatos: z.literal(true, { errorMap: () => ({ message: "debes autorizar el tratamiento de datos" }) }),
-    mayorDeEdad: z.literal(true, { errorMap: () => ({ message: "la venta es solo para mayores de 18 años" }) })
+    autorizacionDatos: z.literal(true, { error: "debes autorizar el tratamiento de datos" }),
+    mayorDeEdad: z.literal(true, { error: "la venta es solo para mayores de 18 años" })
   })
   .strict();
 
